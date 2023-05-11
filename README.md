@@ -1,4 +1,4 @@
 # piano
 
 
-1. [] - Teclas
+1. - [] Teclas
